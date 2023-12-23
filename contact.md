@@ -1,8 +1,9 @@
 ---
 layout: contact
-title: 
-date: 2020-11-20 
-pgp: true 
+title: null
+date: {}
+pgp: true
+published: true
 ---
 
-Feel free to reach out to me on <a href="https://twitter.com/tbutler0x90" class="highlighted">Twitter</a> , <a href="https://www.linkedin.com/in/tyler-b-a700a1aa/" class="highlighted">Linkedin</a> , or <a href="https://keybase.io/tbutler320" class="highlighted">Keybase</a>. You can also send me a message through the netlify form api below. If needed, you can use the button below to copy my public PGP key 
+Feel free to reach out to me through <a href="mailto:mattjohnvo@outlook.com" class="highlighted">E-Mail</a> , <a href="https://www.linkedin.com/in/mattjohnvo/" class="highlighted">Linkedin</a> , or <a href="https://twitter.com/mattjohnvo" class="highlighted">Twitter</a>. You can also send me a message through the form below.
