@@ -10,10 +10,10 @@
 
 title: Matthew Johnson 
 email: mattjohnvo@outlook.com
-description: a minimalistic jekyll theme for academics
+description: Actor with Professional Home Studio
 baseurl:                                       # the subpath of your site, e.g. /blog
 url: "mattjohnvo.github.io"          # the base hostname & protocol for your site, e.g. http://example.com
-image: /assets/img/dumbarton.png               # used to generate site link preview
+image: /assets/img/avatar/cropped.png              # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
 # =======================================#
@@ -21,17 +21,17 @@ image_alt: A minimalistic jekyll theme for academic    # image description
 #========================================#: 
 author: Matthew Johnson 
 profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
-occupation: 
+occupation: Actor
 snippet:
 twitter: mattjohnvo
 github: mattjohnvo
 linkedin: mattjohnvo
-stackoverflow: '12935605'
-website: https://tbutler.org
+stackoverflow: 
+website: 
 codepen: 
 medium: 
 email: mattjohnvo@outlook.com
-keybase: tbutler320
+keybase: 
 pgp: 
 ctftime: 
 phonenumber: 
