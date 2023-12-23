@@ -10,7 +10,7 @@
 
 title: Matthew Johnson 
 email: mattjohnvo@outlook.com
-description: 
+description: Actor with Professional Home Studio
 baseurl:                                       # the subpath of your site, e.g. /blog
 url: "mattjohnvo.github.io"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/avatar/cropped.png              # used to generate site link preview
@@ -39,7 +39,7 @@ phonenumber:
 #========================================#
 # --------- UI THEMES -------------------#
 #========================================#
-ui_theme: dark                                 # Create your own theme by setting options in _data/themes.yml
+ui_theme: abyss                                 # Create your own theme by setting options in _data/themes.yml
 
 
 # =======================================#
