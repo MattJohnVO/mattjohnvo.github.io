@@ -8,29 +8,29 @@
 # -----------BASE SETTINGS---------------#
 #========================================#
 
-title: Dumbarton 
-email: 
+title: Matthew Johnson 
+email: mattjohnvo@outlook.com
 description: a minimalistic jekyll theme for academics
 baseurl:                                       # the subpath of your site, e.g. /blog
-url: "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
+url: "mattjohnvo.github.io"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/dumbarton.png               # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
 # =======================================#
 # -----------SITE SETTINGS---------------#
 #========================================#: 
-author: John Doe 
+author: Matthew Johnson 
 profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
 occupation: 
 snippet:
-twitter: tbutler0x90
-github: tcbutler320
-linkedin: tyler-b-a700a1aa
+twitter: mattjohnvo
+github: mattjohnvo
+linkedin: mattjohnvo
 stackoverflow: '12935605'
 website: https://tbutler.org
 codepen: 
 medium: 
-email: developer.tbutler@gmail.com
+email: mattjohnvo@outlook.com
 keybase: tbutler320
 pgp: 
 ctftime: 
