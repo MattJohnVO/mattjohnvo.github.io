@@ -39,7 +39,7 @@ phonenumber:
 #========================================#
 # --------- UI THEMES -------------------#
 #========================================#
-ui_theme:                                  # Create your own theme by setting options in _data/themes.yml
+ui_theme: sunset-glow                                  # Create your own theme by setting options in _data/themes.yml
 
 
 # =======================================#
@@ -147,7 +147,4 @@ pinterestdomain_verify:                           #<meta name="p:domain_verify" 
 norton-safeweb:                                   # <meta name="norton-safeweb-site-verification" content="norton_code"><!-- Norton Safe Web -->
 detectphone: yes                                  # yes or no. Disable automatic detection and formatting of possible phone numbers 
 x-dns-prefetch-control: on                        # on or off. Completely opt out of DNS prefetching by setting to "off"
-fbappid:                                          # Facebook OpenGraph 
-
-
-
+fbappid:                                          # Facebook OpenGraph
