@@ -6,63 +6,11 @@ header-img: null
 last-updated: '2020-10-30 5:55 PM'
 published: true
 ---
-{% assign theme = site.data.themes[site.ui_theme] %}
 
-<div class="gear-section">
-  <h2 class="section-heading">Gear</h2>
-  <div class="image-list-container">
-    {% for image in site.static_files %}
-      {% if image.path contains 'assets/img/' and (image.extname | downcase contains 'jpg' or image.extname | downcase contains 'jpeg' or image.extname | downcase contains 'png' or image.extname | downcase contains 'gif') %}
-        <div class="image-item">
-          <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" class="img-fluid">
-          <div class="image-description">
-            <h5 style="font-size:{{ theme.post-title-size }}; font-weight:{{ theme.post-font-weight }}">{{ image.name | remove: '.jpg' | remove: '.jpeg' | remove: '.png' | remove: '.gif' }}</h5>
-            <p>Your image description here.</p>
-          </div>
-        </div>
-      {% endif %}
-    {% endfor %}
+{% assign theme = site.data.themes[site.ui_theme] %}
+<div class="blogcard  card-1 mb-4" style="width: 100%;">
+  <div class="card-body">
+    <h5 class="card-title text-center" style="font-size:{{ theme.post-title-size }};font-weight:{{ theme.post-font-weight }};">{{ page.title }}</h5>
   </div>
 </div>
-
-<style>
-  .gear-section {
-    text-align: center;
-    margin-bottom: 20px; /* Adjust spacing between heading and images */
-  }
-
-  .section-heading {
-    font-size: 24px; /* Adjust the font size as needed */
-    font-weight: bold;
-  }
-
-  .image-list-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-  }
-
-  .image-item {
-    width: 300px; /* Adjust the width as needed */
-    text-align: center;
-  }
-
-  .img-fluid {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px; /* Add rounded corners if desired */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
-  }
-
-  .image-description {
-    margin-top: 10px;
-    text-align: left;
-  }
-
-  .image-description h5 {
-    margin-bottom: 5px;
-  }
-
-  .image-description p {
-    margin: 0;
+{% bibliography -f papers %}
