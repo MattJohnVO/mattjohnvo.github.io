@@ -29,7 +29,7 @@ Hello. I'm Matt and I'm currently getting things together right now for a proper
 
 ## Contact Information
 
-For inquiries and bookings, please contact Matthew Johnson at [MattJohnVO@outlook.com](mailto:MattJohnVO@outlook.com) or [phone number].
+For inquiries and bookings, please contact Matthew Johnson at [MattJohnVO@outlook.com](mailto:MattJohnVO@outlook.com).
 
 Follow Matthew on [Twitter](https://twitter.com/mattjohnvo) for updates!
 
