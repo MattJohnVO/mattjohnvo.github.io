@@ -279,12 +279,77 @@
     </div>
   </div>
 </div>
+
+
+<!-- FLICKITY CAROUSEL LIBRARY -->
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://unpkg.com/flickity@2"></script>
+
+<!-- ANIMATE.JS ANIMATE LIBRARY -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha512-z4OUqw38qNLpn1libAN9BsoDx6nbNFio5lA6CuTp9NlK83b89hgyCVq+N5FdBJptINztxn1Z3SaKSKUS5UP60Q==" crossorigin="anonymous"></script>
+
+<!-- FLICKITY INITIALIZATION -->
+<script>
+  $(document).ready(function(){
+    $('.client-carousel').flickity({
+      cellAlign: 'left',
+      contain: true,
+      wrapAround: true,
+      autoPlay: 2000,
+    });
+  });
+</script>
+
+
+
+<!-- HOME HIGHLIGHTS SECTION -->
+
+<div class="card mx-auto animate__animated animate__slideInUp animate__delay-1s glowing-border" style="max-width: 100%;">
+
+  <div class="card-body">          
+    <div class="tab-content mt-3">
+      <!-- CLIENT CAROUSEL -->
+      <div class="client-carousel">
+        <div class="carousel-cell">
+          <img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71gU2qg+NpL.jpg" alt="Client 1">
+        </div>
+        <div class="carousel-cell">
+          <img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71VBQp8KiFL._AC_UF894,1000_QL80_.jpg" alt="Client 2">
+        </div>
+        <div class="carousel-cell">
+          <img src="https://s3-us-west-1.amazonaws.com/member-portal-uploads-production/events/images/000/014/554/small/Source-Connecr_-_Logo_Circle.jpg?1682107609" alt="Client 3">
+        </div>
+        <div class="carousel-cell">
+          <img src="https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_12/127970/11380969_800.jpg" alt="Client 4">
+        </div>
+        <!-- Add more client images as needed -->
+      </div>
+      <!-- END CLIENT CAROUSEL -->
+      
+        <div class="tab-pane overflow-auto" id="publications" role="tabpanel">
+          {# Add your content for other sections as needed #}
+        </div>
+      
+        <div class="tab-pane overflow-auto" id="courses" role="tabpanel">
+          {# Add your content for other sections as needed #}
+        </div>
+      
+        <div class="tab-pane overflow-auto" id="teaching" role="tabpanel">
+          {# Add your content for other sections as needed #}
+        </div>
+      
+        <div class="tab-pane overflow-auto" id="projects" role="tabpanel">
+          {# Add your content for other sections as needed #}
+        </div>
+      
+    </div>
+  </div>
+</div>
 <!-- HOME HIGHLIGHTS SECTION --> 
 
 <div class="card mx-auto animate__animated animate__slideInUp animate__delay-1s glowing-border" style="max-width: 100%;">
 
-  <!-- ... (your existing card content) ... -->
-</div>
 
 <!-- Add the contact form here -->
 <div class="blogcard card-2 mb-4 mt-4 animate__animated animate__slideInUp animate__delay-1s" style="width: 100%;">
@@ -323,27 +388,6 @@
 </script>
   
 <!-- ... (your remaining scripts) ... -->
-
-<!-- FLICKITY CAROUSEL LIBRARY -->
-<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://unpkg.com/flickity@2"></script>
-
-<!-- ANIMATE.JS ANIMATE LIBRARY -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha512-z4OUqw38qNLpn1libAN9BsoDx6nbNFio5lA6CuTp9NlK83b89hgyCVq+N5FdBJptINztxn1Z3SaKSKUS5UP60Q==" crossorigin="anonymous"></script>
-
-<!-- FLICKITY INITIALIZATION -->
-<script>
-  $(document).ready(function(){
-    $('.client-carousel').flickity({
-      cellAlign: 'left',
-      contain: true,
-      wrapAround: true,
-      autoPlay: 2000,
-    });
-  });
-</script>
-
 
 <!--JS FUNCTION FOR RECENT WORK SECTION -->
 <script>
