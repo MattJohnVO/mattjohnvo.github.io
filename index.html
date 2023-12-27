@@ -270,27 +270,28 @@
 </div>
 
 <!-- Add the contact form here -->
-<div class="blogcard card-2 mb-4 mt-4" style="width: 100%;">
+<div class="blogcard card-2 mb-4 mt-4 animate__animated animate__slideInUp animate__delay-1s" style="width: 100%;">
   <div class="card-body">
     <h1 class="card-title text-center" style="font-size:36px;font-weight:700;">Contact Me</h1>
     <p>
-Feel free to reach out to me through <a href="mailto:mattjohnvo@outlook.com"
-class="highlighted">E-Mail</a> , <a href="https://www.linkedin.com/in/mattjohnvo/" class="highlighted">Linkedin</a> , or <a href="https://twitter.com/mattjohnvo" class="highlighted">Twitter</a>. You can also send me a message through the form below:
-</p>
+      Feel free to reach out to me through <a href="mailto:mattjohnvo@outlook.com" class="highlighted">E-Mail</a>,
+      <a href="https://www.linkedin.com/in/mattjohnvo/" class="highlighted">Linkedin</a>, or
+      <a href="https://twitter.com/mattjohnvo" class="highlighted">Twitter</a>. You can also send me a message through the form below:
+    </p>
   </div>
 </div>
 
-<div class="card shadow">
+<div class="card shadow animate__animated animate__slideInUp animate__delay-1s">
   <div class="container">
     <form name="contact" netlify>
       <div class="mb-3 mt-5">
-        <input type="name" placeholder="Your Name" name="name" class="form-control" id="inputForName"/>
+        <input type="name" placeholder="Your Name" name="name" class="form-control" id="inputForName" />
       </div>
       <div class="mb-3">
         <textarea type="message" placeholder="Your Message" name="message" class="form-control" id="inputforMessage"></textarea>
       </div>
       <div class="mb-3">
-        <input type="email" placeholder="Your Email" name="email" class="form-control" id="inputforEmail">
+        <input type="email" placeholder="Your Email" name="email" class="form-control" id="inputforEmail" />
       </div>
       <button type="submit" class="btn mb-4" style="background-color:#FFB90F;">Submit</button>
     </form>
@@ -298,12 +299,12 @@ class="highlighted">E-Mail</a> , <a href="https://www.linkedin.com/in/mattjohnvo
 </div>
 
 <script>
-function startClippy(){
+  function startClippy() {
     new ClipboardJS('.btn');
-}
-window.onload = startClippy;
+  }
+  window.onload = startClippy;
 </script>
-
+  
 <!-- ... (your remaining scripts) ... -->
 
 
