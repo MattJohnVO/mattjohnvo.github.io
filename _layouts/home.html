@@ -23,7 +23,15 @@ published: true
 {% endif %}
 
 <!-- ABOUT ME SECTION -->
-
+<div class="card mx-auto border-0" style="position:relative;background-color:{{theme.home-background-color}};">
+  <div class="row">
+    <div class="col-md-4">
+      {% if site.animate %}
+        <img src="{{ site.profile_image }}" class="img-thumbnail float-left animate__animated animate__fadeInLeft shadow bg-white rounded" alt="...">
+      {% else %}
+        <img src="{{ site.profile_image }}" class="img-thumbnail float-left" alt="...">
+      {% endif %}
+    </div>
     <!-- EDUCATION SECTION -->
     <div class="col-md-8">
       {% if site.animate %}
