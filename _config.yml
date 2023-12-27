@@ -19,7 +19,7 @@ image_alt: Matthew Johnson    # image description
 # =======================================#
 # -----------SITE SETTINGS---------------#
 #========================================#: 
-author: Matthew Johnson 
+author:  
 profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
 occupation: Actor
 snippet: Actor with Professional Home Studio
@@ -46,7 +46,7 @@ ui_theme: sunflower-yellow                                  # Create your own th
 # -----------BLOG SETTINGS---------------#
 #========================================#
 
-tags:  post jekyll styleguide ipsum
+tags:  matthew johnson matthewjohnson mattjohnvo voiceover voice over voiceacting voice acting voicetalent talent narration professional voice actor
 twitter-widget: true # true,false                  # Used to show your twitter timeline on blog home page
 
 comments: false                                     # Used to enable comments on blog posts
