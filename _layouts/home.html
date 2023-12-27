@@ -2,23 +2,6 @@
 layout: default
 published: true
 ---
----
-layout: default  # Example metadata, adjust according to your needs
-title: My Page
-carousels:
-  - images: 
-      - image: /uploads/slider/image1.jpg
-      - image: /uploads/slider/image2.jpg
-      - image: /uploads/slider/image3.jpg
-      - image: /uploads/slider/image4.jpg
-  - images: 
-      - image: /uploads/slider/image5.jpg
-      - image: /uploads/slider/image6.jpg
-      - image: /uploads/slider/image7.jpg
-      - image: /uploads/slider/image8.jpg
----
-
-
 {% assign theme = site.data.themes[site.ui_theme] %}
 
 <!--  HELP TIPS SECTION  -->
@@ -67,30 +50,23 @@ carousels:
 
 <!-- style="font-family:{{ theme.link-font }};background-color:{{ theme.nav-color }}; -->
 
-<!-- HOME HIGHLIGHTS SECTION -->
+<!-- HOME HIGHLIGHTS SECTION --> 
 {% if site.animate %}
 <div class="card mx-auto animate__animated animate__slideInUp animate__delay-1s glowing-border" style="max-width: 100%;">
 {% else %}
 <div class="card mx-auto mb-1 border-0" style="max-width: 100%;">
 {% endif %}
-  <div class="card-body">
-    <div class="tab-content mt-3">
-      <div class="tab-pane overflow-auto" id="clients" role="tabpanel">
-        <!-- First Carousel -->
-        {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-        <!-- Second Carousel -->
-        {% include carousel.html height="50" unit="%" duration="7" number="2" %}
+  <div class="card-body">          
+      <div class="tab-content mt-3">
+        {% for section in site.data.sections %}
+          <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel">
+            {# Empty field, or you can customize the content here #}
+          </div>
+        {% endfor %}
       </div>
-      {% for section in site.data.sections %}
-        <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel">
-          {# Add your content for other sections as needed #}
-        </div>
-      {% endfor %}
-    </div>
   </div>
 </div>
-<!-- END HOME HIGHLIGHTS SECTION -->
+<!-- HOME HIGHLIGHTS SECTION --> 
 {% if site.animate %}
 <div class="card mx-auto animate__animated animate__slideInUp animate__delay-1s glowing-border" style="max-width: 100%;">
 {% else %}
