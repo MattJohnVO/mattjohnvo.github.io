@@ -31,7 +31,7 @@ Hello. I'm Matt and I'm currently getting things together right now for a proper
 
 For inquiries and bookings, please contact Matthew Johnson at [MattJohnVO@outlook.com](mailto:MattJohnVO@outlook.com).
 
-Follow Matthew on [Twitter](https://twitter.com/mattjohnvo) for updates!
+Follow Matthew on **[Twitter]**(https://twitter.com/mattjohnvo) for updates!
 
 *Note: This portfolio is currently under construction. Stay tuned for more updates!*
 
