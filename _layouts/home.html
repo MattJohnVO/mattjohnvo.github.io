@@ -17,7 +17,7 @@ published: true
     </button>
   </div>
   <div class="toast-body">
-    Under Construction
+    Under 
   </div>
 </div>
 {% endif %}
@@ -33,20 +33,7 @@ published: true
       {% endif %}
     </div>
     <!-- EDUCATION SECTION -->
-    <div class="col-md-8">
-      {% if site.animate %}
-      <div class="card-body animate__animated animate__fadeInRight" style="color:{{theme.education-font-color}};">
-      {% else %}
-      <div class="card-body mt-0" style="color:{{theme.education-font-color}};">
-      {% endif %}
-        <p style="color:{{theme.education-font-color}};">{{ content | markdownify}}<p>
-        {% if site.home_option == "education" %}
-          {% include education.html %}
-        {% endif %}
-      </div>
-    </div>
-  </div>
-</div>
+
 
 <!-- style="font-family:{{ theme.link-font }};background-color:{{ theme.nav-color }}; -->
 
