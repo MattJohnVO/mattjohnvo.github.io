@@ -11,13 +11,10 @@ published: true
 Hello. I'm Matt and I'm currently getting things together right now for a proper website to host my portfolio. Please don't hesitate to contact me if you have any further questions!
 ## Demos
 
-### Commercial Demo
-[Link to Commercial Demo](#)
 
 ### Character Demo
 ---
-layout: default
-title: Audio Embed
+[Download](#)
 ---
 
 <div class="audio-container">
@@ -27,6 +24,9 @@ title: Audio Embed
   </audio>
 </div>
 
+
+### Commercial Demo
+[Link to Commercial Demo](#)
 ## Recent Projects
 
 1. **Project Title 1**
