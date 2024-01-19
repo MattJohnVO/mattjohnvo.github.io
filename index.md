@@ -16,12 +16,13 @@ Hello. I'm Matt and I'm currently getting things together right now for a proper
 
 ---
 
+
 <div class="audio-container">
-  <a class="download-button" href="/assets/audio/Matthew Johnson Character Demo.mp3" download>Download Character Demo</a>
   <audio controls>
     <source src="/assets/audio/Matthew Johnson Character Demo.mp3" type="audio/mp3">
     Your browser does not support the audio tag.
   </audio>
+  <a class="download-button" href="/assets/audio/Matthew Johnson Character Demo.mp3" download>Download Character Demo</a>
 </div>
 
 
