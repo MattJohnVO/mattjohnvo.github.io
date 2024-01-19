@@ -15,7 +15,17 @@ Hello. I'm Matt and I'm currently getting things together right now for a proper
 [Link to Commercial Demo](#)
 
 ### Character Demo
-[Link to Character Demo](#)
+---
+layout: default
+title: Audio Embed
+---
+
+<div class="audio-container">
+  <audio controls>
+    <source src="/assets/audio/Matthew Johnson Character Demo.mp3" type="audio/mp3">
+    Your browser does not support the audio tag.
+  </audio>
+</div>
 
 ## Recent Projects
 
