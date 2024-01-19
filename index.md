@@ -7,7 +7,6 @@ published: true
 <div align="center">
   <h1>Matthew Johnson</h1>
   <h1>Voice Acting Portfolio</h1>
-  <strong>Status:</strong> Under Construction
 
   Hello. I'm Matt and I'm currently getting things together right now for a proper website to host my portfolio. Please don't hesitate to contact me if you have any further questions!
 </div>
