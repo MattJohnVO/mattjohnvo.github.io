@@ -4,11 +4,13 @@ title: null
 date: {}
 published: true
 ---
-# Matthew Johnson - Voice Acting Portfolio
+<div align="center">
+  <h1>Matthew Johnson - Voice Acting Portfolio</h1>
+  <strong>Status:</strong> Under Construction
 
-**Status:** Under Construction
+  Hello. I'm Matt and I'm currently getting things together right now for a proper website to host my portfolio. Please don't hesitate to contact me if you have any further questions!
+</div>
 
-Hello. I'm Matt and I'm currently getting things together right now for a proper website to host my portfolio. Please don't hesitate to contact me if you have any further questions!
 ## Demos
 ----
 
