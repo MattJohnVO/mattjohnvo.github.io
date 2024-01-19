@@ -8,26 +8,25 @@ published: true
 
 **Status:** Under Construction
 
-Hello. I'm Matt and I'm currently getting things together right now for a proper website to host my portfolio. Please don't hesitate to contact me if you have any further questions!
-## Demos
+Hello, I'm Matt! I'm in the process of creating a dedicated website to showcase my voice acting portfolio. If you have any questions, feel free to reach out!
 
+## Demos
 
 ### Character Demo
 ---
-[Download](/assets/audio/Matthew_Johnson_Character_Demo.mp3)
 ---
 
 <div class="audio-container">
-  <a class="download-button" href="/assets/audio/Matthew Johnson Character Demo.mp3" download>Download Audio</a>
+  <a class="download-button" href="/assets/audio/Matthew Johnson Character Demo.mp3" download>Download Character Demo</a>
   <audio controls>
     <source src="/assets/audio/Matthew Johnson Character Demo.mp3" type="audio/mp3">
     Your browser does not support the audio tag.
   </audio>
 </div>
 
-
 ### Commercial Demo
-[Link to Commercial Demo](#)
+[Listen to Commercial Demo](#)
+
 ## Recent Projects
 
 1. **Project Title 1**
@@ -42,9 +41,9 @@ Hello. I'm Matt and I'm currently getting things together right now for a proper
 
 For inquiries and bookings, please contact Matthew Johnson at [MattJohnVO@outlook.com](mailto:MattJohnVO@outlook.com).
 
-Follow Me on [**Twitter**](https://twitter.com/mattjohnvo) for updates!
+Follow me on [**Twitter**](https://twitter.com/mattjohnvo) for updates!
 
 *Note: This portfolio is currently under construction. Stay tuned for more updates!*
 
+[Contact Me](/contact.html) <!-- Consider making the "Contact Me" button more prominent -->
 
-<a href="/contact.html" class="highlighted">Contact Me</a>
