@@ -26,9 +26,14 @@ Hello. I'm Matt and I'm currently getting things together right now for a proper
 <div class="audio-container">
   <a class="download-button" href="/assets/audio/Matthew Johnson Character Demo.mp3" download>Download Character Demo</a>
 </div>
+
 ---
+
 ### Commercial Demo
 [Link to Commercial Demo](#)
+
+---
+
 ## Recent Projects
 
 1. **Project Title 1**
