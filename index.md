@@ -44,13 +44,16 @@ published: true
 
 ---
 
-## Contact Information
+<div style="text-align:center;">
 
-For inquiries and bookings, please contact Matthew Johnson at [MattJohnVO@outlook.com](mailto:MattJohnVO@outlook.com).
+<h2>Contact Information</h2>
 
-Follow Me on [**Twitter**](https://twitter.com/mattjohnvo) for updates!
+<p>For inquiries and bookings, please contact Matthew Johnson at <a href="mailto:MattJohnVO@outlook.com">MattJohnVO@outlook.com</a>.</p>
 
-*Note: This portfolio is currently under construction. Stay tuned for more updates!*
+<p>Follow Me on <strong><a href="https://twitter.com/mattjohnvo">Twitter</a></strong> for updates!</p>
 
+<p><em>Note: This portfolio is currently under construction. Stay tuned for more updates!</em></p>
 
 <a href="/contact.html" class="highlighted">Contact Me</a>
+
+</div>
