@@ -37,10 +37,10 @@ published: true
 
 ---
 
-## Studio Information
+## Studio Details
 
-<div class="audio-container">
-  <a class="download-button highlighted" href="/assets/docs/StudioDetails.pdf" download>Studio Details</a>
+<div class="button-container">
+  <a class="pdf-button highlighted" href="/assets/docs/StudioDetails.pdf" target="_blank">Studio Details</a>
 </div>
 
 ## Contact Information
