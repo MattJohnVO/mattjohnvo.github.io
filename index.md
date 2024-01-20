@@ -37,15 +37,11 @@ published: true
 
 ---
 
-## Recent Projects
+## Studio Information
 
-1. **Project Title 1**
-   - Role: Character Name
-   - [Link to Project](#)
-
-2. **Project Title 2**
-   - Role: Character Name
-   - [Link to Project](#)
+<div class="audio-container">
+  <a class="download-button highlighted" href="/assets/docs/StudioDetails.pdf" download>Studio Details</a>
+</div>
 
 ## Contact Information
 
