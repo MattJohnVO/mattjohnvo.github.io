@@ -61,7 +61,7 @@ published: true
 
 <h2>Contact Information</h2>
 
-<p>For inquiries and bookings, please contact Matthew Johnson at <a href="mailto:MattJohnVO@outlook.com">MattJohnVO@outlook.com</a>.</p>
+<p>For inquiries and bookings, please contact Matthew Johnson at <a href="mailto:MattJohnVO@outlook.com">MattJohnVO@outlook.com</a>, or in the contact form below.</p>
 
 <p>Follow Me on <strong><a href="https://twitter.com/mattjohnvo">Twitter</a></strong> for updates!</p>
 
