@@ -39,12 +39,13 @@ published: true
 
 <h2>Commercial Demo</h2>
 
-<a href="#" ">Coming Soon</a>
+<a>Coming Soon</a>
 
 </div>
 ---
-
 <div style="text-align:center;">
+
+<h2>Studio Details</h2>
 
 <div class="button-container">
   <a class="pdf-button highlighted" href="/assets/docs/StudioDetails.pdf" target="_blank">Studio Details</a>
