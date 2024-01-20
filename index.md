@@ -19,6 +19,7 @@ published: true
 
 ---
 
+<div style="text-align:center;">
 
 <div class="audio-container">
   <audio controls>
@@ -29,6 +30,8 @@ published: true
 
 <div class="audio-container">
   <a class="download-button highlighted" href="/assets/audio/Matthew Johnson Character Demo.mp3" download>Download Character Demo</a>
+</div>
+
 </div>
 
 ---
