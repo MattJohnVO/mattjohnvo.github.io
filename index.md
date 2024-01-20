@@ -39,7 +39,7 @@ published: true
 
 <h2>Commercial Demo</h2>
 
-<a href="#" class="highlighted">Coming Soon</a>
+<a href="#" ">Coming Soon</a>
 
 </div>
 ---
