@@ -11,7 +11,6 @@ published: true
   Hello. I'm Matt and I'm currently getting things together right now for a proper website to host my portfolio. Please don't hesitate to contact me if you have any further questions!
 </div>
 
-## Demos
 ----
 
 ### Character Demo
