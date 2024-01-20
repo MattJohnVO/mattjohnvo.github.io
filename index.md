@@ -13,7 +13,9 @@ published: true
 
 ----
 
-### Character Demo
+<div align="center">
+  <h2>Matthew Johnson</h2>
+</div>
 
 ---
 
