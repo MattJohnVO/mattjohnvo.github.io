@@ -17,7 +17,6 @@ published: true
   <h2>Character Demo</h2>
 </div>
 
----
 
 <div style="text-align:center;">
 
