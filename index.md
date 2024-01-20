@@ -13,8 +13,11 @@ published: true
 
 ----
 
+<div style="text-align:center;">
+
 ### Character Demo
 
+</div>
 ---
 
 
