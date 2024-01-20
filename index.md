@@ -35,10 +35,13 @@ published: true
 </div>
 
 ---
+<div style="text-align:center;">
 
-### Commercial Demo
-[Link to Commercial Demo](#)
+<h2>Commercial Demo</h2>
 
+<a href="#" class="highlighted">Coming Soon</a>
+
+</div>
 ---
 
 <div style="text-align:center;">
