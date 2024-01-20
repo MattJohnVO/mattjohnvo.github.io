@@ -40,6 +40,7 @@ published: true
 <div class="button-container">
   <a class="pdf-button highlighted" href="/assets/docs/StudioDetails.pdf" target="_blank">Studio Details</a>
 </div>
+
 ---
 
 ## Contact Information
