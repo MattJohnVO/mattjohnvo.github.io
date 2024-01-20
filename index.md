@@ -47,8 +47,10 @@ published: true
 
 <h2>Studio Details</h2>
 
-<div class="button-container">
-  <a class="pdf-button highlighted" href="/assets/docs/StudioDetails.pdf" target="_blank">Studio Details</a>
+<div style="text-align:center;">
+
+<a class="pdf-button highlighted" href="/assets/docs/StudioDetails.pdf" target="_blank"><h2>Studio Details</h2></a>
+
 </div>
 
 </div>
