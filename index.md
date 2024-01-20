@@ -14,7 +14,7 @@ published: true
 ----
 
 <div align="center">
-  <h2>Matthew Johnson</h2>
+  <h2>Character Demo</h2>
 </div>
 
 ---
