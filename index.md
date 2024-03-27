@@ -38,8 +38,20 @@ published: true
 
 <h2>Commercial Demo</h2>
 
-<a>Coming Soon</a>
+<div style="text-align:center;">
 
+<div class="audio-container">
+  <audio controls>
+    <source src="/assets/audio/Matthew_Johnson_Commercial_Demo.mp3" type="audio/mp3">
+    Your browser does not support the audio tag.
+  </audio>
+</div>
+
+<div class="audio-container">
+  <a class="download-button highlighted" href="/assets/audio/Matthew_Johnson_Commercial_Demo.mp3" download>Download Commercial Demo</a>
+</div>
+
+</div>
 </div>
 ---
 <div style="text-align:center;">
@@ -63,7 +75,7 @@ published: true
 <p>For inquiries and bookings, please feel free to contact Matthew Johnson via email at <a href="mailto:MattJohnVO@outlook.com">MattJohnVO@outlook.com</a> or by using the contact form below.</p>
 
 
-<p><em>Note: This portfolio is currently under construction.</em></p>
+
 
 <p>Follow Me on <strong><a href="https://twitter.com/mattjohnvo">Twitter</a></strong> for updates!</p>
 
