@@ -13,27 +13,6 @@ published: true
 
 ----
 
-<div align="center">
-  <h2>Character Demo</h2>
-</div>
-
-
-<div style="text-align:center;">
-
-<div class="audio-container">
-  <audio controls>
-    <source src="/assets/audio/Matthew Johnson Character Demo.mp3" type="audio/mp3">
-    Your browser does not support the audio tag.
-  </audio>
-</div>
-
-<div class="audio-container">
-  <a class="download-button highlighted" href="/assets/audio/Matthew Johnson Character Demo.mp3" download>Download Character Demo</a>
-</div>
-
-</div>
-
----
 <div style="text-align:center;">
 
 <h2>Commercial Demo</h2>
@@ -65,6 +44,27 @@ published: true
 </div>
 
 
+
+---
+<div align="center">
+  <h2>Character Demo</h2>
+</div>
+
+
+<div style="text-align:center;">
+
+<div class="audio-container">
+  <audio controls>
+    <source src="/assets/audio/Matthew Johnson Character Demo.mp3" type="audio/mp3">
+    Your browser does not support the audio tag.
+  </audio>
+</div>
+
+<div class="audio-container">
+  <a class="download-button highlighted" href="/assets/audio/Matthew Johnson Character Demo.mp3" download>Download Character Demo</a>
+</div>
+
+</div>
 
 ---
 
