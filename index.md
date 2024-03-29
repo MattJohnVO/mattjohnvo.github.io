@@ -32,18 +32,6 @@ published: true
 
 </div>
 </div>
----
-<div style="text-align:center;">
-
-<h2>Studio Details</h2>
-
-<div class="button-container">
-  <a class="pdf-button highlighted" href="/assets/docs/StudioDetails.pdf" target="_blank">Found Here</a>
-</div>
-
-</div>
-
-
 
 ---
 <div align="center">
@@ -65,6 +53,18 @@ published: true
 </div>
 
 </div>
+---
+<div style="text-align:center;">
+
+<h2>Studio Details</h2>
+
+<div class="button-container">
+  <a class="pdf-button highlighted" href="/assets/docs/StudioDetails.pdf" target="_blank">Found Here</a>
+</div>
+
+</div>
+
+
 
 ---
 
